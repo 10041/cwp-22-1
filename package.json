@@ -1,0 +1,11 @@
+{
+    "name":"@plutoplanetsolarsystem/plish-notation-calc",
+    "description":"test package fot labaratory work",
+    "version":"2.1.1",
+    "main":"index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Andrey Oleksyuk",
+    "license": "ISC"
+}
